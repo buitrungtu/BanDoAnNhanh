@@ -1,12 +1,20 @@
 ﻿@using Website_BuyFood.Models
-@{
-                /**/
+@using Website_BuyFood.Common;
 
-                ViewBag.Title = "Menu";
-                Layout = "~/Views/Shared/_Layout.cshtml";
-                MonAnAccess maa = new MonAnAccess();
-                List<MonAn> LMA = maa.DanhSachMonAn();
-                int dong = 0;
+@{
+    /**/
+
+    ViewBag.Title = "Menu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    MonAnDao MAD = new MonAnDao();
+    List<MonAn> LMA = MAD.DanhSachMonAn();
+    var session = (UserLogin)Session[Website_BuyFood.Common.CommonConstants.USER_SESSION];
+    KhachHangDao KHD = new KhachHangDao();
+    int maKH = 0;
+    if(session != null)
+    {
+        maKH = KHD.getMaKH(session.TenDangNhap);
+    }
 }
 
 <!-- banner -->
@@ -24,9 +32,9 @@
     </ol>
 </div>
 <!-- //page details -->
-<div class="GioHang">
-    <a class="btn login-button-2">
-        <span class="fa fa-shopping-cart"> Giỏ |<p id="SoLuong"> </p></span>
+<div data-id="@maKH" class="GioHang">
+    <a href="#Gio" class="btn login-button-2">
+        <span class="fa fa-shopping-cart"> Giỏ </span>
     </a>
 </div>
 <!-- menu -->
@@ -36,8 +44,15 @@
             <h3 class="w3ls-title mb-3"><span>Menu</span></h3>
             <p class="titile-para-text mx-auto">Giá tiền dưới đã được áp dụng tất cả các chương trình giảm giá của cửa hàng</p>
         </div>
-
-        <div class="row mt-4">
+        <div class="TimKiem">
+            <form action="/" method="post">
+                <input id="txt-TenMon" type="text" placeholder="Tìm kiếm món ăn?" />
+                <div id="btn-TimKiem" class="btn btn-default" aria-label="Left Align">
+                    <i class="fa fa-search" aria-hidden="true"> </i>
+                </div>
+            </form>
+        </div>
+        <div id="DanhSachMon" class="row mt-4">
             @for (int i = 0; i < LMA.Count; i++)
             {
                 if ((i + 1) % 3 == 1)
@@ -69,6 +84,13 @@
 </section>
 
 <!-- gallery model-->
+<!-- gallery popup giỏ hàng -->
+<div id="Gio" class="pop-overlay">
+    <div class="popup">
+        <div id="ChiTietGioHang"></div>
+        <a class="close" href="#gallery">×</a>
+    </div>
+</div>
 <!-- gallery popup 1 -->
 @foreach (MonAn item in LMA)
 {

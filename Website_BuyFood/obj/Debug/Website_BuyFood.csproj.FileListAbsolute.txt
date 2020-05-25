@@ -28,6 +28,8 @@ D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\roslyn\vbc.rsp
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\roslyn\VBCSCompiler.exe
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\roslyn\VBCSCompiler.exe.config
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Antlr3.Runtime.dll
+D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\EntityFramework.dll
+D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\EntityFramework.SqlServer.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Microsoft.Web.Infrastructure.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Newtonsoft.Json.dll
@@ -39,6 +41,8 @@ D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.WebPages.Deploym
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.WebPages.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.WebPages.Razor.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\WebGrease.dll
+D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\EntityFramework.xml
+D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\EntityFramework.SqlServer.xml
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.Helpers.xml
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.Mvc.xml
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.Optimization.xml
@@ -49,8 +53,8 @@ D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\System.Web.WebPages.Razor.x
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Newtonsoft.Json.xml
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Antlr3.Runtime.pdb
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.csprojAssemblyReference.cache
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CoreCompileInputs.cache
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CopyComplete
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.pdb
+D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.csprojAssemblyReference.cache

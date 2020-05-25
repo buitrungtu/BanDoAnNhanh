@@ -5,7 +5,7 @@ $(function () {
 		$('.HienDangNhap').addClass('HienForm');
 		$('.lammo').addClass('HienForm');
 	});
-	$('.Close-DN,.lammo, .submit').click(function(event) {
+	$('.Close-DN,.lammo').click(function(event) {
 		$('.HienDangNhap').removeClass('HienForm');
 		$('.lammo').removeClass('HienForm');
 	});
@@ -14,7 +14,7 @@ $(function () {
 		$('.HienDangKy').addClass('HienForm');
 		$('.lammo').addClass('HienForm');
 	});
-	$('.Close-DK,.lammo, .submit').click(function(event) {
+	$('.Close-DK,.lammo').click(function(event) {
 		$('.HienDangKy').removeClass('HienForm');
 		$('.lammo').removeClass('HienForm');
 	});

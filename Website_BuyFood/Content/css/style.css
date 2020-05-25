@@ -7,19 +7,19 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-body a:hover {
-    text-decoration: none;
-}
+    body a:hover {
+        text-decoration: none;
+    }
 
-body a:focus,
-a:hover {
-    text-decoration: none;
-}
+    body a:focus,
+    a:hover {
+        text-decoration: none;
+    }
 
-body a:hover,
-body button:hover {
-    opacity: .8;
-}
+    body a:hover,
+    body button:hover {
+        opacity: .8;
+    }
 
 h1,
 h2,
@@ -30,7 +30,6 @@ h6 {
     margin: 0;
     padding: 0;
     font-family: 'Barlow Semi Condensed', sans-serif;
-
 }
 
 p {
@@ -85,10 +84,10 @@ a.move-top {
     z-index: 0;
 }
 
-a.move-top span {
-    color: #ff3f34;
-    font-size: 30px;
-}
+    a.move-top span {
+        color: #ff3f34;
+        font-size: 30px;
+    }
 
 /* //bottom-to-top */
 
@@ -116,10 +115,10 @@ a.move-top span {
     -ms-transition: 0.3s all;
 }
 
-.top-right-info li a span {
-    color: #fff;
-    font-size: 14px;
-}
+    .top-right-info li a span {
+        color: #fff;
+        font-size: 14px;
+    }
 
 .top-right-info li p {
     margin-right: 6px;
@@ -198,83 +197,84 @@ nav {
     padding: 0;
 }
 
-/* Since we'll have the "ul li" "float:left"
+    /* Since we'll have the "ul li" "float:left"
  * we need to add a clear after the container. */
-nav:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+    nav:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 
-/* Removing padding, margin and "list-style" from the "ul",
+    /* Removing padding, margin and "list-style" from the "ul",
  * and adding "position:reltive" */
-nav ul {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    position: relative;
-}
+    nav ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        position: relative;
+    }
 
-/* Positioning the navigation items inline */
-nav ul li {
-    display: inline-block;
-    float: left;
-}
+        /* Positioning the navigation items inline */
+        nav ul li {
+            display: inline-block;
+            float: left;
+        }
 
-/* Styling the links */
-nav li {
-    margin: 0 10px;
-}
+    /* Styling the links */
+    nav li {
+        margin: 0 10px;
+    }
 
-nav a {
-    color: #3a3939;
-    font-weight: 400;
-    font-size: 14px;
-    display: inline-block;
-    text-transform: uppercase;
-    letter-spacing: .5px;
-    transition: .4s;
-}
+    nav a {
+        color: #3a3939;
+        font-weight: 400;
+        font-size: 14px;
+        display: inline-block;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        transition: .4s;
+    }
 
-/* Background color change on Hover */
-nav a:hover {
-    color: #3a3939;
-    border-bottom: 2px solid #ff3f34;
-    padding-bottom: 4px;
-}
+        /* Background color change on Hover */
+        nav a:hover {
+            color: #3a3939;
+            border-bottom: 2px solid #ff3f34;
+            padding-bottom: 4px;
+        }
 
-nav ul li a.PageNow{
-    border-bottom: 2px solid #ff3f34;
-    padding-bottom: 5px;
-    font-size: 16px;
-}
-nav ul ul {
-    display: none;
-    position: absolute;
-    top: 24px;
-    background: #fff;
-    padding: 10px;
-    z-index: 9;
-    border: 1px solid #e4e4e4;
-}
+    nav ul li a.PageNow {
+        border-bottom: 2px solid #ff3f34;
+        padding-bottom: 5px;
+        font-size: 16px;
+    }
 
-nav ul li:hover>ul {
-    display: inherit;
-}
+    nav ul ul {
+        display: none;
+        position: absolute;
+        top: 24px;
+        background: #fff;
+        padding: 10px;
+        z-index: 9;
+        border: 1px solid #e4e4e4;
+    }
 
-nav ul ul li {
-    width: 170px;
-    float: none;
-    display: list-item;
-    position: relative;
-    margin: 0;
-}
+    nav ul li:hover > ul {
+        display: inherit;
+    }
 
-nav ul ul li a {
-    display: block;
-    font-size: 13px;
-    padding: 6px 10px;
-}
+    nav ul ul li {
+        width: 170px;
+        float: none;
+        display: list-item;
+        position: relative;
+        margin: 0;
+    }
+
+        nav ul ul li a {
+            display: block;
+            font-size: 13px;
+            padding: 6px 10px;
+        }
 
 a.drop-text:hover {
     background: #f5f5f5;
@@ -292,7 +292,7 @@ nav ul ul ul li {
 }
 
 /* Change ' +' in order to change the Dropdown symbol */
-li>a:only-child:after {
+li > a:only-child:after {
     content: '';
 }
 
@@ -305,7 +305,7 @@ li>a:only-child:after {
 
     /* Hide the navigation menu by default */
     /* Also hide the  */
-    .toggle+a,
+    .toggle + a,
     .menu {
         display: none;
     }
@@ -350,7 +350,7 @@ li>a:only-child:after {
     }
 
     /* Display Dropdown when clicked on Parent Lable */
-    [id^=drop]:checked+ul {
+    [id^=drop]:checked + ul {
         display: block;
         padding: 15px 0;
         text-align: center;
@@ -363,42 +363,42 @@ li>a:only-child:after {
         float: right;
     }
 
-    /* Change menu item's width to 100% */
-    nav ul li {
-        display: block;
-        width: 100%;
-    }
+        /* Change menu item's width to 100% */
+        nav ul li {
+            display: block;
+            width: 100%;
+        }
 
-    nav a:hover,
-    nav ul ul ul a {
-        background-color: transparent;
-    }
+        nav a:hover,
+        nav ul ul ul a {
+            background-color: transparent;
+        }
 
-    /* Hide Dropdowns by Default */
-    nav ul ul {
-        float: none;
-        position: static;
-        color: #ffffff;
-        /* has to be the same number as the "line-height" of "nav a" */
-    }
+        /* Hide Dropdowns by Default */
+        nav ul ul {
+            float: none;
+            position: static;
+            color: #ffffff;
+            /* has to be the same number as the "line-height" of "nav a" */
+        }
 
-    /* Hide menus on hover */
-    nav ul ul li:hover>ul,
-    nav ul li:hover>ul {
-        display: none;
-    }
+            /* Hide menus on hover */
+            nav ul ul li:hover > ul,
+            nav ul li:hover > ul {
+                display: none;
+            }
 
-    /* Fisrt Tier Dropdown */
-    nav ul ul li {
-        display: block;
-        width: 100%;
-        padding: 0;
-    }
+            /* Fisrt Tier Dropdown */
+            nav ul ul li {
+                display: block;
+                width: 100%;
+                padding: 0;
+            }
 
-    nav ul ul ul li {
-        position: static;
-        /* has to be the same number as the "width" of "nav ul ul li" */
-    }
+            nav ul ul ul li {
+                position: static;
+                /* has to be the same number as the "width" of "nav ul ul li" */
+            }
 
     nav .menu li {
         margin: 2px 0;
@@ -447,15 +447,15 @@ a.logo {
     position: relative;
 }
 
-a.logo span {
-    color: #ff3f34;
-    font-size: 15px;
-    letter-spacing: 5px;
-    font-weight: 500;
-    position: absolute;
-    right: 2px;
-    top: -10px;
-}
+    a.logo span {
+        color: #ff3f34;
+        font-size: 15px;
+        letter-spacing: 5px;
+        font-weight: 500;
+        position: absolute;
+        right: 2px;
+        top: -10px;
+    }
 
 /* //logo */
 
@@ -499,14 +499,15 @@ p.account-w3ls a {
     color: #000;
     margin-bottom: 8px;
 }
-.Close-DK,.Close-DN {
+
+.Close-DK, .Close-DN {
     position: absolute;
     top: 0%;
     right: 1%;
     cursor: pointer;
 }
 
-button.submit {
+.submit {
     background: #ff3f34;
     color: #fff;
     font-size: 15px;
@@ -520,6 +521,7 @@ button.submit {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
+
 .lammo {
     top: 0px;
     height: 1000px;
@@ -532,9 +534,10 @@ button.submit {
     opacity: 0;
     transition: 0.4s;
 }
-.HienForm{
+
+.HienForm {
     visibility: visible;
-    opacity:1;
+    opacity: 1;
     transform: scale(1);
 }
 
@@ -552,7 +555,9 @@ button.submit {
 .banner-info_agile_w3ls {
     padding-top: 10em;
     padding-left: 5em;
-}`
+}
+
+`
 
 .banner-info_agile_w3ls h5 {
     font-family: 'Lato', sans-serif;
@@ -566,9 +571,9 @@ button.submit {
     font-weight: 600;
 }
 
-.banner-info_agile_w3ls h3 span {
-    color: #ff3f34;
-}
+    .banner-info_agile_w3ls h3 span {
+        color: #ff3f34;
+    }
 
 a.button-w3ls {
     color: #615f5f;
@@ -581,17 +586,17 @@ a.button-w3ls {
     border-radius: 4px;
 }
 
-a.button-w3ls.active {
-    color: #fff;
-    background: #05c46b;
-    border-color: #05c46b;
-}
+    a.button-w3ls.active {
+        color: #fff;
+        background: #05c46b;
+        border-color: #05c46b;
+    }
 
-a.button-w3ls:hover {
-    color: #fff;
-    background: #05c46b;
-    border-color: #05c46b;
-}
+    a.button-w3ls:hover {
+        color: #fff;
+        background: #05c46b;
+        border-color: #05c46b;
+    }
 
 /* //left side text */
 
@@ -647,6 +652,7 @@ a.button-w3ls:hover {
 p.sub-para {
     color: #e4d8d8;
 }
+
 .about {
     background: url(../images/bg1.jpg) no-repeat left;
     background-size: cover;
@@ -663,9 +669,9 @@ h3.w3ls-title {
     color: #333;
 }
 
-h3.w3ls-title span {
-    color: #ff3f34;
-}
+    h3.w3ls-title span {
+        color: #ff3f34;
+    }
 
 p.w3ls-title-sub {
     font-size: 22px;
@@ -682,10 +688,11 @@ p.w3ls-title-sub {
     z-index: 1;
     background: #823b3b !important;
 }
+
 .w3ls-bnrbtm,
 .single-page,
 .portfolio,
-.ab-info-main,.about-bottom {
+.ab-info-main, .about-bottom {
     position: relative;
     z-index: 1;
     background: #ffffff;
@@ -760,16 +767,20 @@ p.w3ls-title-sub {
 h3.w3ls-title.mb-3 {
     color: #fff;
 }
+
 p.nx {
     color: #fff;
 }
+
 p.titile-para-text.mx-auto {
     color: #08b926;
 }
-#nguoidunglaunam{
+
+#nguoidunglaunam {
     background: url(../images/nguoidunglaunam.jpg) no-repeat fixed;
     background-size: cover;
 }
+
 p.titile-para-text {
     max-width: 600px;
     font-size: 15px;
@@ -800,10 +811,11 @@ img.img-blog {
     bottom: -20%;
     left: 6%;
 }
-img.img-blog.rounded-circle.img-fluid {
-    height: 115px;
-    width: 120px;
-}
+
+    img.img-blog.rounded-circle.img-fluid {
+        height: 115px;
+        width: 120px;
+    }
 
 /* two grids */
 .blog-sec-w3 {
@@ -945,9 +957,9 @@ button.submit-contact {
     border-radius: 4px;
 }
 
-button.submit-contact:hover {
-    opacity: .8;
-}
+    button.submit-contact:hover {
+        opacity: .8;
+    }
 
 /* //form */
 /* copyright */
@@ -955,18 +967,18 @@ button.submit-contact:hover {
     background: #1c1d21;
 }
 
-.cpy-right p {
-    letter-spacing: 1px;
-    font-size: 14px;
-}
+    .cpy-right p {
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
 
-.cpy-right p a {
-    color: #eee;
-}
+        .cpy-right p a {
+            color: #eee;
+        }
 
-.cpy-right p a:hover {
-    color: #ff514e;
-}
+            .cpy-right p a:hover {
+                color: #ff514e;
+            }
 
 /* //copyright */
 /* footer */
@@ -1010,14 +1022,14 @@ button.submit-contact:hover {
     -ms-transition: 0.5s all;
 }
 
-.gallery-demo:hover {
-    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19);
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
+    .gallery-demo:hover {
+        box-shadow: 0 12px 16px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19);
+        transition: 0.5s all;
+        -webkit-transition: 0.5s all;
+        -moz-transition: 0.5s all;
+        -o-transition: 0.5s all;
+        -ms-transition: 0.5s all;
+    }
 
 h4.p-mask {
     color: #636363;
@@ -1027,10 +1039,10 @@ h4.p-mask {
     padding: 14px 10px 20px;
 }
 
-h4.p-mask span {
-    color: #ff1616e6;
-    font-size: 24px;
-}
+    h4.p-mask span {
+        color: #ff1616e6;
+        font-size: 24px;
+    }
 
 .galler-pop-in {
     z-index: 9999;
@@ -1061,35 +1073,35 @@ h4.p-mask span {
     align-items: center;
 }
 
-.pop-overlay:target {
-    visibility: visible;
-    opacity: 1;
-}
+    .pop-overlay:target {
+        visibility: visible;
+        opacity: 1;
+    }
 
 .popup {
     background: #fff;
     border-radius: 4px;
-    max-width: 500px;
+    max-width: 600px;
     position: relative;
     margin: 5.5em auto;
     padding: 3em 2em 2em;
     text-align: center;
 }
 
-.popup .close {
-    position: absolute;
-    top: 5px;
-    right: 15px;
-    transition: all 200ms;
-    font-size: 30px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #000;
-}
+    .popup .close {
+        position: absolute;
+        top: 5px;
+        right: 15px;
+        transition: all 200ms;
+        font-size: 30px;
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+    }
 
-.popup .close:hover {
-    color: #7870fb;
-}
+        .popup .close:hover {
+            color: #7870fb;
+        }
 
 /* //popup */
 /* //gallery */
@@ -1128,9 +1140,9 @@ h3.title-sub {
     color: #fff;
 }
 
-h3.title-sub span {
-    display: block;
-}
+    h3.title-sub span {
+        display: block;
+    }
 
 /* team */
 .caption {
@@ -1150,34 +1162,34 @@ h3.title-sub span {
     display: inline-block;
 }
 
-.caption ul li:nth-child(2) {
-    margin: 0 .3em;
-}
+    .caption ul li:nth-child(2) {
+        margin: 0 .3em;
+    }
 
-.caption ul li a i {
-    color: #fff;
-    width: 35px;
-    height: 35px;
-    font-size: 16px;
-    line-height: 2.2;
-}
+    .caption ul li a i {
+        color: #fff;
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+        line-height: 2.2;
+    }
 
-.caption ul li a i:hover {
-    transform: rotateY(360deg);
-    transition: .5s all;
-}
+        .caption ul li a i:hover {
+            transform: rotateY(360deg);
+            transition: .5s all;
+        }
 
-.caption ul li a i.f1 {
-    background: #3b5998;
-}
+        .caption ul li a i.f1 {
+            background: #3b5998;
+        }
 
-.caption ul li a i.f2 {
-    background: #00aced;
-}
+        .caption ul li a i.f2 {
+            background: #00aced;
+        }
 
-.caption ul li a i.f3 {
-    background: #F44336;
-}
+        .caption ul li a i.f3 {
+            background: #F44336;
+        }
 
 .w3ls-title-sub span {
     color: #ff4545e0;
@@ -1190,9 +1202,11 @@ h3.title-sub span {
 
 /* responsive */
 
-@media(max-width: 1680px) {}
+@media(max-width: 1680px) {
+}
 
-@media(max-width: 1600px) {}
+@media(max-width: 1600px) {
+}
 
 @media(max-width: 1440px) {
 
@@ -1207,13 +1221,13 @@ h3.title-sub span {
         padding-left: 3em;
     }
 
-    .banner-info_agile_w3ls h5 {
-        font-size: 22px;
-    }
+        .banner-info_agile_w3ls h5 {
+            font-size: 22px;
+        }
 
-    .banner-info_agile_w3ls h3 {
-        font-size: 54px;
-    }
+        .banner-info_agile_w3ls h3 {
+            font-size: 54px;
+        }
 
     .text-blog-w3 {
         padding-top: 9em !important;
@@ -1348,18 +1362,19 @@ h3.title-sub span {
         font-size: 36px;
     }
 
-    a.logo span {
-        font-size: 13px;
-        letter-spacing: 6px;
-        top: 0;
-    }
+        a.logo span {
+            font-size: 13px;
+            letter-spacing: 6px;
+            top: 0;
+        }
 
     .right-space {
         padding-right: 5em;
     }
 }
 
-@media(max-width: 1024px) {}
+@media(max-width: 1024px) {
+}
 
 @media(max-width: 991px) {
     .banner-info_agile_w3ls {
@@ -1430,7 +1445,8 @@ h3.title-sub span {
     }
 }
 
-@media(max-width: 768px) {}
+@media(max-width: 768px) {
+}
 
 @media(max-width: 736px) {
     .banner-info_agile_w3ls h5 {
@@ -1489,7 +1505,8 @@ h3.title-sub span {
     }
 }
 
-@media(max-width: 667px) {}
+@media(max-width: 667px) {
+}
 
 @media(max-width: 640px) {
 
@@ -1500,7 +1517,8 @@ h3.title-sub span {
     }
 }
 
-@media(max-width: 600px) {}
+@media(max-width: 600px) {
+}
 
 @media(max-width: 568px) {
 
@@ -1541,11 +1559,11 @@ h3.title-sub span {
         padding-top: 2em;
     }
 
-    .banner-info_agile_w3ls h3 {
-        font-size: 40px;
-        line-height: 40px;
-        margin-top: 10px;
-    }
+        .banner-info_agile_w3ls h3 {
+            font-size: 40px;
+            line-height: 40px;
+            margin-top: 10px;
+        }
 
     nav a,
     .menu .toggle {
@@ -1558,7 +1576,8 @@ h3.title-sub span {
     }
 }
 
-@media(max-width: 440px) {}
+@media(max-width: 440px) {
+}
 
 @media(max-width: 414px) {
     .caption ul li a i {
@@ -1633,6 +1652,7 @@ h3.title-sub span {
         bottom: -31%;
     }
 }
+
 nav ul li a {
     margin-left: 20px;
     margin-right: 10px;
@@ -1640,4 +1660,12 @@ nav ul li a {
 /* //responsive */
 .col-md-4.mt-md-0.mt-4.Mon {
     margin-bottom: 40px;
+}
+.TimKiem input {
+    width: 500px;
+    height: 34px;
+}
+
+.TimKiem {
+    margin-left: 27%;
 }
