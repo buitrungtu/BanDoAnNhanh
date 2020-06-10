@@ -5,11 +5,16 @@
     $("#btn-DangKy").click(function () {
         DangKy();
     });
-    $(".GioHang").click(function () {
+    $("#btn-ThemVaoGio").click(function () { 
         maKH = $(this).data('id');
         if (maKH == 0) {
-            alert('Bạn chưa đăng nhập');
-        } else {
+            alert('Chua dang nhap');
+        }
+
+    });
+    $(".GioHang").click(function () {
+        maKH = $(this).data('id');
+        if (maKH != 0) {
             LoadGioHang(maKH);
         }
     });
@@ -31,7 +36,6 @@ function DangNhap() {
         dataType: "json",
         success: function (result) {
             if (result.status == true) {
-                alert('Đăng nhập thành công');
                 $('.HienDangNhap').removeClass('HienForm');
                 $('.lammo').removeClass('HienForm');
                 $("#DangNhap").hide();

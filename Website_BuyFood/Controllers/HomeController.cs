@@ -45,7 +45,11 @@ namespace Website_BuyFood.Controllers
                     {
                         status = true
                     });
-                }                                
+                }
+            }
+            else
+            {
+                ModelState.AddModelError("", "Tài khoản đã tồn tại");
             }
             return Json(new
             {

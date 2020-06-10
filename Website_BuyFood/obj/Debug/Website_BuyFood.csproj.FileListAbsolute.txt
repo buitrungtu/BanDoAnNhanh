@@ -58,3 +58,123 @@ D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.cspro
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.dll
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.pdb
 D:\Visual Studio\Website_BuyFood\Website_BuyFood\obj\Debug\Website_BuyFood.csprojAssemblyReference.cache
+D:\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.dll.config
+D:\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.pdb
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.exe
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.exe.config
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.rsp
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csi.exe
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csi.rsp
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.AppContext.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Collections.Immutable.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.IO.FileSystem.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Reflection.Metadata.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.exe
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.exe.config
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.rsp
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\VBCSCompiler.exe
+D:\BanDoAnNhanh\Website_BuyFood\bin\roslyn\VBCSCompiler.exe.config
+D:\BanDoAnNhanh\Website_BuyFood\bin\Antlr3.Runtime.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.SqlServer.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.Web.Infrastructure.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\Newtonsoft.Json.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Helpers.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Mvc.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Optimization.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Razor.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Deployment.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Razor.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\WebGrease.dll
+D:\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.SqlServer.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Helpers.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Mvc.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Optimization.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Razor.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Deployment.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Razor.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\Newtonsoft.Json.xml
+D:\BanDoAnNhanh\Website_BuyFood\bin\Antlr3.Runtime.pdb
+D:\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csprojAssemblyReference.cache
+D:\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CoreCompileInputs.cache
+D:\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CopyComplete
+D:\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.dll
+D:\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.pdb
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.dll.config
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Website_BuyFood.pdb
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.exe
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.exe.config
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csc.rsp
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csi.exe
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\csi.rsp
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.AppContext.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Collections.Immutable.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.IO.FileSystem.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\System.Reflection.Metadata.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.exe
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.exe.config
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\vbc.rsp
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\VBCSCompiler.exe
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\roslyn\VBCSCompiler.exe.config
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Antlr3.Runtime.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.SqlServer.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.Web.Infrastructure.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Newtonsoft.Json.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Helpers.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Mvc.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Optimization.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Razor.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Deployment.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Razor.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\WebGrease.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\EntityFramework.SqlServer.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Helpers.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Mvc.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Optimization.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.Razor.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Deployment.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\System.Web.WebPages.Razor.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Newtonsoft.Json.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Antlr3.Runtime.pdb
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csprojAssemblyReference.cache
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.csproj.CopyComplete
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.dll
+D:\HỌC TẬP\CN WEB\BanDoAnNhanh\Website_BuyFood\obj\Debug\Website_BuyFood.pdb

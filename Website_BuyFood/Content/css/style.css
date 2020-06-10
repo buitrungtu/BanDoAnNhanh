@@ -1661,11 +1661,13 @@ nav ul li a {
 .col-md-4.mt-md-0.mt-4.Mon {
     margin-bottom: 40px;
 }
+
 .TimKiem input {
-    width: 500px;
+    width: 92%;
     height: 34px;
 }
 
 .TimKiem {
-    margin-left: 27%;
+    margin-left: 25%;
+    width: 50%;
 }

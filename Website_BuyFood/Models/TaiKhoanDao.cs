@@ -26,6 +26,11 @@ namespace Website_BuyFood.Models
                 MatKhau = MatKhau,
                 LoaiTaiKhoan = "khachhang"
             };
+
+            if (db.TaiKhoans.Where(x => x.TenDangNhap == TaiKhoan.TenDangNhap).FirstOrDefault() != null)
+            {
+                return false;
+            }
             db.TaiKhoans.Add(TaiKhoan);
             int kq = db.SaveChanges();
             if (kq > 0) return true;

@@ -24,7 +24,7 @@ namespace Website_BuyFood.Models
         {
             var kh = new KhachHang()
             {
-                MaKH = Int32.Parse(temp.SDT.Substring(temp.SDT.Length - 4, temp.SDT.Length-1)),
+                MaKH = 6,
                 HoTen = temp.HoTen,
                 SDT = temp.SDT,
                 TenDangNhap = temp.TenDangNhap
